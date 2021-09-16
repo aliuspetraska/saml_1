@@ -1,12 +1,12 @@
 {
   "name": "saml_1",
   "version": "1.0.0",
-  "description": "",
+  "description": "saml_1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "alius.petraska@ibm.com",
   "license": "ISC",
   "dependencies": {
     "compression": "^1.7.4",
